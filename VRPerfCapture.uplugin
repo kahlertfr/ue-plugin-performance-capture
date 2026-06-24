@@ -1,0 +1,18 @@
+{
+  "FileVersion": 3,
+  "Version": 2,
+  "VersionName": "2.0",
+  "FriendlyName": "VR Performance Capture",
+  "Description": "Runtime VR and C++ performance measurement with Blueprint start/stop and CSV export.",
+  "Category": "Performance",
+  "CreatedBy": "Franziska Kahlert",
+  "EnabledByDefault": true,
+  "CanContainContent": true,
+  "Modules": [
+    {
+      "Name": "VRPerfCapture",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
